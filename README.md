@@ -1,2 +1,3 @@
 # mygame.py
-This is My first game  SNAKE,WATER,GUN GAME
+This is My first
+
